@@ -1,2 +1,2 @@
-# SQL_
+# MySQL
 Projetos utilizando MySQL
